@@ -1,0 +1,9 @@
+* First step we took the position of batman
+* Batman should able to jump certain limits based on dombdir
+* Dombdir value (up, right, down-right)
+* Based on Dombdir value we have to calculate the poistion
+* then we are tracking batman actually which direction he should travel
+* If (x,y) is (2,3) then we track the current position
+* that is where the batman should move
+* According to the position we are moving one step at a time
+* the actuall rules is (one step should move at a time, total 6 steps within the 6 steps he should find bomb)
